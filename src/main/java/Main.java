@@ -10,6 +10,9 @@ public class Main {
         //feature 3
         //feature 4
         //main 5
+        //feature 5
+        //feature 6
+        //feature 7
     }
 
     public static void showLog() {
