@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        //added main 5
-        //added feature 5
+        //From scratch
+        //main 1
     }
 
     public static void showLog() {
